@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": 1780710247294,
+    "nombre": "yilber",
+    "rol": "veedor",
+    "propuesta": "garantizar derechos",
+    "estado": "Perfil de práctica académica"
+  },
+  {
+    "id": 1780710286427,
+    "nombre": "pikachu",
+    "rol": "veedor",
+    "propuesta": "electrificar los derechos",
+    "estado": "Perfil de práctica académica"
+  },
+  {
+    "id": 1780710411065,
+    "nombre": "duban",
+    "rol": "veedor",
+    "propuesta": "diseñar mundo democrático",
+    "estado": "Perfil de práctica académica"
+  }
+]
