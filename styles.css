@@ -2,18 +2,18 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   background-color: #f8f5f7;
-  color: #333;
+  color: #333333;
 }
 
 header {
-  background-color: #8A1538;
+  background-color: #2563eb;
   color: white;
   padding: 30px;
   text-align: center;
 }
 
 .seccion-candidatos {
-  background-color: white;
+  background-color: #ffffff;
   padding: 25px;
   border-radius: 12px;
   margin-top: 25px;
@@ -28,20 +28,20 @@ header {
 
 .tarjeta-candidato {
   border: 1px solid #ddd;
-  border-left: 5px solid #8A1538;
+  border-left: 5px solid #2563eb;
   border-radius: 10px;
   padding: 18px;
   background-color: #fff;
 }
 
 .tarjeta-candidato h3 {
-  color: #8A1538;
+  color: #2563eb;
   margin-top: 0;
 }
 
 .tarjeta-candidato button {
   margin-top: 10px;
-  background-color: #8A1538;
+  background-color: #2563eb;
   color: white;
   border: none;
   padding: 10px 14px;
@@ -50,14 +50,14 @@ header {
 }
 
 .tarjeta-candidato button:hover {
-  background-color: #C2185B;
+  background-color: #5686ed;
 }
 
 .detalle-perfil {
   margin-top: 20px;
   padding: 15px;
-  background-color: #F9EEF3;
-  border-left: 5px solid #C2185B;
+  background-color: #d9e3fa;
+  border-left: 5px solid #5686ed;
   border-radius: 8px;
 }
 
@@ -71,7 +71,7 @@ section {
   background-color: white;
   margin-bottom: 20px;
   padding: 20px;
-  border-left: 5px solid #C2185B;
+  border-left: 5px solid #2563eb;
   border-radius: 8px;
 }
 
@@ -81,7 +81,7 @@ h2 {
 }
 
 button {
-  background-color: #8A1538;
+  background-color:  #2563eb;
   color: white;
   border: none;
   padding: 12px 18px;
@@ -90,13 +90,13 @@ button {
 }
 
 button:hover {
-  background-color: #6f102d;
+  background-color: #2563eb;
 }
 
 footer {
   text-align: center;
   padding: 15px;
-  background-color: #eee;
+  background-color: #d9e3fa;
 }
 
 .formulario-candidato input,
@@ -112,13 +112,13 @@ footer {
 #mensajeGuardado {
   margin-top: 12px;
   font-weight: bold;
-  color: #8A1538;
+  color: #2563eb;
 }
 
 .tarjeta-guardada {
   margin-top: 12px;
   padding: 12px;
-  border-left: 5px solid #8A1538;
-  background-color: #F9EEF3;
+  border-left: 5px solid #2563eb;
+  background-color: #d9e3fa;
   border-radius: 8px;
 }
