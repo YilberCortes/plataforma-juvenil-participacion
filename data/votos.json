@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "id": 1782748408451,
+    "identificacion": "123456789",
+    "candidato": "yilber",
+    "fecha": "2026-06-29T15:53:28.451Z"
+  },
+  {
+    "id": 1782748424422,
+    "identificacion": "12345678",
+    "candidato": "pikachu",
+    "fecha": "2026-06-29T15:53:44.422Z"
+  },
+  {
+    "id": 1782748430487,
+    "identificacion": "12344567",
+    "candidato": "duban",
+    "fecha": "2026-06-29T15:53:50.487Z"
+  }
+]
